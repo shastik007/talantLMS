@@ -1,5 +1,7 @@
 const App = () => {
-   return <div />
+   return <div >
+      Beybars
+   </div>
 }
 
 export default App
